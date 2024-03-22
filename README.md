@@ -1,6 +1,6 @@
 # Joshua Scantlebury
 
-Welcome to my GitHub portfolio! I'm Joshua, a passionate individual at the intersection of data science, biotechnology, and analytics, with a keen interest in applying my skills across various domains such as health and wellness, sports analytics, and financial literacy. Bilingual in English and French, I thrive in collaborative environments where problem-solving and analytical thinking are at the forefront.
+Welcome to my GitHub portfolio! I'm Joshua, a passionate individual at the intersection of data science and biotechnology.I am Bilingual in English and French, I thrive in collaborative environments where problem-solving and analytical thinking are at the forefront.
 
 ## 🌟 Skills
 
@@ -11,14 +11,14 @@ Welcome to my GitHub portfolio! I'm Joshua, a passionate individual at the inter
 
 ### Technical Skills
 - **Statistical Analysis and Modelling:** Expert in turning data into actionable insights through sophisticated statistical methods.
-- **Machine Learning:** Proficient with TensorFlow and Keras, I build models that not only predict but also enhance understanding.
+- **Machine Learning:** With experience with packages TensorFlow and Keras, I build models that not only predict but also enhance understanding.
 - **Data Visualization:** Whether it's Tableau or Power BI, I can transform raw data into compelling visual narratives.
-- **Programming Languages:** Fluent in Python/R, with extensive experience in database management using mySQL and PostgreSQL.
+- **Programming Languages:** Proficient in Python and R, with extensive experience in database management using mySQL and PostgreSQL.
 
 ## 🔍 Interests
 
 - **Cinema:** A film enthusiast, I enjoy exploring the stories and techniques behind groundbreaking cinema.
-- **Health and Wellness:** Passionate about promoting a balanced lifestyle through data-driven insights into health and wellness.
+- **Health and Wellness:** Passionate about promoting a balanced lifestyle.
 - **Sports Analytics:** Combining my love for sports, especially basketball, with analytics to uncover deeper understanding and strategies.
 - **Traveling:** A global traveler with an interest in understanding diverse cultures and histories.
 - **History & Financial Literacy:** Committed to learning about our past to better understand present financial principles and practices.
