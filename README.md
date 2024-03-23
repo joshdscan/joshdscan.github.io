@@ -26,19 +26,6 @@ Repository URL: [https://github.com/joshdscan/Automating-Article-Selection](http
 - Automated article selection process targeting high-share articles for increased profitability.
 - Predicted articles to collectively generate at least 25% more in average shares.
 
-## 🌟 Skills
-
-### Soft Skills
-- **Collaborative Teamwork:** Excelling in environments that demand cooperation and teamwork, bringing out the best in those around me.
-- **Problem Solving:** Approaching challenges with a structured and analytical mindset, always seeking the most efficient solutions.
-- **Analytical Thinking:** With a keen eye for detail, capable of dissecting complex problems and devising comprehensive strategies.
-
-### Technical Skills
-- **Statistical Analysis and Modeling:** Expertise in turning data into actionable insights through sophisticated statistical methods.
-- **Machine Learning:** Experienced with TensorFlow and Keras packages, I build models that predict and enhance understanding.
-- **Data Visualization:** Proficient with Tableau and Power BI, transforming raw data into compelling visual narratives.
-- **Programming Languages:** Proficient in Python and R, with extensive experience in database management using MySQL and PostgreSQL.
-
 ## 🔍 Interests
 
 - **Cinema:** An enthusiast exploring the stories and techniques behind groundbreaking cinema.
@@ -47,16 +34,6 @@ Repository URL: [https://github.com/joshdscan/Automating-Article-Selection](http
 - **Traveling:** A global traveler interested in diverse cultures and histories.
 - **History & Financial Literacy:** Committed to learning about our past to understand present financial principles better.
 - **Chemistry:** Fascinated by the molecular makeup of our world, seeking to apply this interest innovatively.
-
-## 📚 Education
-
-- **MSc Management Analytics, Wilfrid Laurier University**
-  - Specialized in Machine Learning, Data Management, and Analytical Decision Making.
-- **Honors BSc Biochemistry & Biotechnology, Minor in Biology, Wilfrid Laurier University**
-  - Deeply engaged in the sciences, focusing on biotechnological applications and analytical skills.
-
-I am always eager to connect with like-minded individuals and explore opportunities for collaboration or projects that challenge the status quo. Let's innovate together!
-
 ---
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshuadscantlebury) or via email at jd.scantlebury@hotmail.com. Looking forward to connecting with you!
