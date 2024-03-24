@@ -45,7 +45,7 @@ This project was designed for a potential Airbnb host in The Big Apple. It utili
 - **Health and Wellness:** Dedicated to advocating a balanced lifestyle.
 - **Sports Analytics:** Integrating passion for sports (particularly basketball) with analytics.
 - **Traveling:**  An explorer of diverse cultures and histories.
-- **Chemistry:** Intrigued by the molecular fabric of our world.
+- **Chemistry:**  Intrigued by the molecular fabric of our world.
 ---
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshuadscantlebury) or via email at jd.scantlebury@hotmail.com. Looking forward to connecting with you!
