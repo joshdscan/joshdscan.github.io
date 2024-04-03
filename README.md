@@ -1,6 +1,6 @@
 # Joshua Scantlebury
 
-Welcome! I'm a data science enthusiast who loves diving deep into datasets to uncover insights that solve real-world problems. My passion lies at the intersection of data analytics and real-world applications.
+Welcome to my portfolio! I enjoy various aspects of data science and here you'll find a recap of my academic and personal projects.
 
 ## 📚 Projects
 
@@ -35,7 +35,7 @@ This project was designed for a potential Airbnb host in The Big Apple. It utili
 - Evaluation of renovation impacts with a cautious approach to immediate property upgrades.
 
 
-
+---
 
 
 
