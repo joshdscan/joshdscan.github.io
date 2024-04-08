@@ -34,6 +34,16 @@ This project was designed for a potential Airbnb host in The Big Apple. It utili
 - Comparative market analysis suggesting a $190 nightly rate for maximized competitiveness.
 - Evaluation of renovation impacts with a cautious approach to immediate property upgrades.
 
+### Reducing Credit Card Fraud at AJOS Bank
+
+This project addresses the rise in fraud complaints within AJOS Bank's credit card transactions. Four machine learning models were tested to analyze the bank’s data and identify the most effective method for detecting and preventing fraudulent transactions. The Random Forest model emerged as the most accurate, significantly reducing the potential financial losses and improving customer trust.
+
+Repository URL:  [https://github.com/joshdscan/fraud-detection](https://github.com/joshdscan/fraud-detection)
+
+#### Key Highlights
+- Implemented oversampling to balance the dataset from a 99.6% no-fraud rate to a 60:40 ratio, significantly improving the model's ability to detect fraud cases.
+- The Random Forest model was selected as the best performer, with a 99.9% accuracy, 0.999 sensitivity (true positive rate), and 1 specificity (true negative rate), indicating its exceptional ability to identify fraudulent transactions without misclassifying legitimate ones.
+
 
 ---
 
