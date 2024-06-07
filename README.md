@@ -11,8 +11,8 @@ This project focuses on addressing the high costs and low success rates associat
 Repository URL: [https://github.com/joshdscan/CTWhyStopped/tree/main](https://github.com/joshdscan/CTWhyStopped/tree/main)
 
 #### Key Highlights
-- Developed a machine learning solution for automating clinical trial labeling.
-- F1 score showed to be 35% higher than that of the logistic regression model.
+- Developed a deep learning solution for automating clinical trial labeling.
+- Model displayed promise in cases where ample data was provided
 
 ### Automating Article Selection with Margin Insight
 
