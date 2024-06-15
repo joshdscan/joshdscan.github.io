@@ -12,7 +12,7 @@ Repository URL: [https://github.com/joshdscan/CTWhyStopped/tree/main](https://gi
 
 #### Key Highlights
 - Developed a deep learning solution for automating clinical trial labeling.
-- Model displayed promise in cases where ample data was provided
+- Model displayed promise in cases where ample data was provided.
 
 ### Automating Article Selection with Margin Insight
 
@@ -44,10 +44,17 @@ Repository URL:  [https://github.com/joshdscan/fraud-detection](https://github.c
 - Implemented oversampling to balance the dataset from a 99.6% no-fraud rate to a 60:40 ratio, significantly improving the model's ability to detect fraud cases.
 - The Random Forest model was selected as the best performer, with a 99.9% accuracy, 0.999 sensitivity (true positive rate), and 1 specificity (true negative rate), indicating its exceptional ability to identify fraudulent transactions without misclassifying legitimate ones.
 
+### Spare Parts Logistics Optimization Model
+
+This project optimizes the logistics of spare parts distribution by minimizing total costs, including fixed costs for depots and transportation costs between suppliers, depots, and customers. Using Gurobi for mathematical modeling and Python for data handling, the model incorporates real life constraints such as supplier weight limits, depot capacity,  and more to ensure efficient logistics operations while meeting service level standards.
+
+Repository URL: [https://github.com/joshdscan/Airplane-Spare-Parts-Logistics](https://github.com/joshdscan/Airplane-Spare-Parts-Logistics)
+
+#### Key Highlights
+- Utilized Pandas and Gurobi to solve an optimization problem.
+- Optimizing transportation costs can save over $150,000.
 
 ---
-
-
 
 ## 🔍 Interests
 
@@ -55,6 +62,7 @@ Repository URL:  [https://github.com/joshdscan/fraud-detection](https://github.c
 - **Health and Wellness:** Dedicated to advocating a balanced healthy lifestyle.
 - **Sports Analytics:** Integrating passion for sports (particularly basketball) with analytics.
 - **Traveling:**  An explorer of diverse cultures and histories.
+
 ---
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshuadscantlebury) or via email at jd.scantlebury@hotmail.com. Looking forward to connecting with you!
