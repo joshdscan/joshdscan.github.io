@@ -4,6 +4,18 @@ Welcome to my portfolio! I enjoy various aspects of data science and here you'll
 
 ## 📚 Projects
 
+### Enhancing Multiclass Classification with Random Forest and Bayesian Analysis
+
+This project focuses on building and optimizing a multiclass classification model to address class imbalance and feature correlation. A Random Forest model, along with Logistic Regression, was used to train and predict the outcomes based on encoded and PCA-transformed data. Bayesian analysis was applied to evaluate the least important feature, providing insights into feature significance and model uncertainty.
+
+Repository URL: [https://github.com/joshdscan/Technical-Interview-Multi-Class-Classification](https://github.com/joshdscan/Technical-Interview-Multi-Class-Classification)
+
+#### Key Highlights
+- Implemented data preprocessing techniques such as outlier removal, scaling, and feature encoding to handle skewed distributions and missing data.
+- The feature-selected Random Forest model achieved the highest weighted F1 score after hyperparameter tuning, outperforming other models with a 6.25% improvement.
+- Bayesian analysis provided uncertainty estimation for feature importance, adding a probabilistic perspective to model performance.
+
+
 ### Transforming Clinical Trial Labeling
 
 This project focuses on addressing the high costs and low success rates associated with clinical trials. It develops a machine learning solution to automate the labeling of clinical trials based on termination reasons. By leveraging the transformer model, the project aims to reduce the manual curation burden and enhance the efficiency of identifying viable clinical trial candidates via multi-label classification.
