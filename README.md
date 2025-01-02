@@ -4,6 +4,18 @@ Welcome to my portfolio! I enjoy various aspects of data science and here you'll
 
 ## 📚 Projects
 
+### Predicting NBA Player Performance with Free Data
+
+This project focuses on leveraging publicly available basketball data to predict a player's scoring performance in upcoming games. By combining raw statistics with domain knowledge, the model captures trends and outliers that simple averages overlook.
+
+Repository URL: [https://github.com/joshdscan/NBA-Player-Prop-Prediction/tree/main](https://github.com/joshdscan/NBA-Player-Prop-Prediction/tree/main)
+
+#### Key Highlights:
+- Collected data from NBA APIs and open datasets, including player stats and team performance metrics.
+- Engineered features like rest days, home-court advantage, rolling averages, and player usage rates to improve prediction accuracy.
+- Experimented with multiple machine learning models, selecting Ridge Regression for its balance between performance and interpretability.
+
+
 ### Enhancing Multiclass Classification with Random Forest and Bayesian Analysis
 
 This project focuses on building and optimizing a multiclass classification model to address class imbalance and feature correlation. A Random Forest model, along with Logistic Regression, was used to train and predict the outcomes based on encoded and PCA-transformed data. Bayesian analysis was applied to evaluate the least important feature, providing insights into feature significance and model uncertainty.
