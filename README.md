@@ -15,6 +15,15 @@ Blog URL: [Predicting NBA Player Performance with Free Data](https://medium.com/
 - Engineered features like rest days, home-court advantage, rolling averages, and player usage rates to improve prediction accuracy.
 - Experimented with multiple machine learning models, selecting Ridge Regression for its balance between performance and interpretability.
 
+### Data-Driven Marketing Strategy for Shine Inc.
+
+In this project, I developed targeted marketing strategies for Shine Inc., a medium-sized cosmetics company, to enhance profitability and operational efficiency in a competitive market. Using business analytics, we identified actionable insights to improve customer engagement and ROI.
+
+**Key Highlights**:
+- Conducted **RFM Analysis** to segment customers and identify high-value groups for personalized marketing efforts.
+- Applied **Market Basket Analysis (MBA)** to uncover high-lift product bundles, enabling effective cross-sell and bundling strategies.
+- Forecasted a $32,758.19 increase in monthly sales using the **ARIMA model** to evaluate the impact of the proposed bundling campaign.
+
 
 ### Enhancing Multiclass Classification with Random Forest and Bayesian Analysis
 
