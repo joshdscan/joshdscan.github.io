@@ -8,7 +8,7 @@ Welcome to my portfolio! I enjoy various aspects of data science and here you'll
 
 This project focuses on leveraging publicly available basketball data to predict a player's scoring performance in upcoming games. By combining raw statistics with domain knowledge, the model captures trends and outliers that simple averages overlook.
 
-Repository URL: [https://github.com/joshdscan/NBA-Player-Prop-Prediction/tree/main](https://github.com/joshdscan/NBA-Player-Prop-Prediction/tree/main)
+Blog URL: [Predicting NBA Player Performance with Free Data](https://medium.com/@bullsboii1/how-close-can-i-get-to-vegas-lines-with-free-data-fdba2aa92ff5)
 
 #### Key Highlights:
 - Collected data from NBA APIs and open datasets, including player stats and team performance metrics.
