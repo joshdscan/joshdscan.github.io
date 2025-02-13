@@ -1,8 +1,8 @@
 # Joshua Scantlebury  
-**Data Analytics | Data Scientist**  
+**Data Analytics | Data Science**  
 *Passionate about transforming data into actionable insights*  
 
-**🔧 Tech Stack**: Python, SQL, Scikit-learn, TensorFlow/PyTorch, Gurobi, Tableau, Pandas, NumPy, AWS, Git, Bayesian Analysis, NLP, Time Series Forecasting, Optimization Models  
+**🔧 Tech Stack**: Python, SQL, R, Scikit-learn, TensorFlow/PyTorch, Gurobi, Tableau, PowerBI, Pandas, NumPy, AWS, Git, Bayesian Analysis, NLP, Time Series Forecasting, Optimization Models  
 
 ---
 
